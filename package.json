@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "node app.js"
   },
+  "type":"module",
   "author": "",
   "license": "ISC",
   "description": "",
